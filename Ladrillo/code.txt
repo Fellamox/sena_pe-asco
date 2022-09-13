@@ -1,0 +1,200 @@
+<!DOCTYPE html>la piedra
+
+<html>
+    <head>
+      <tr> <center><form>
+            </ul>
+          </div>
+        
+              <button>
+                <a href="">Inicio</a>
+              </button>      
+                
+            <button>
+             <a target="_blank" href="https://sevenbucks.com/">Seven Bucks</a>
+            </button> 
+
+            <button>
+               <a href="www.twitter.com/therock">Redes Sociales</a>
+            </button>
+            
+            <button>
+               <a target="_blank" href="html/galeriaroca.html" > Galeria</a>
+            </button>
+            
+            <button>
+                <a target="_blank" href="html/listapeliculas.html" >peliculas</a>
+             </button>
+
+
+            </form></center>
+       </tr>
+            
+        <title>
+            DWAYNE ROCK
+        </title>
+        <link rel="shortcut icon" href="html/img/si.png/webos.png" type="image/x-icon">
+        <link rel="stylesheet" href="html/si.png/style.css">
+        <h1>
+             "The rock" Dwayne Johnson
+        </h1>
+        <hr>
+    </head>
+    <body>
+        <p>
+         <font size="5"><span style="color:red" Dwayne Douglas Johnson>Dwayne Douglas Johnson 
+        </span> <font color="white">es un luchador profesional convertido en actor conocido por su aparición en la película de aventuras y fantasía</font>  <span style="color:yellow" the mummy returns>'The Mummy Returns'</span>. 
+        <font color="white">Un luchador profesional de gran éxito antes que desde ante de hacer su incursión en el cine, Johnson ya era conocido por su nombre de ring.</font>  
+        <span style="color:crimson" THE ROCK>'THE ROCK'</span>. 
+
+        <P> 
+            <hr>
+            <font size="5"> <font color="white"> Imagenes de referencia:</font>
+        </P>
+        <img src="html/img/piedra.jpg" width="370" height="500"> <img src="html/img/la piedla.jpg" width="370" height="500"> <img src="html/img/Contexto.jpg" height="500" width="500">
+
+    </body>
+    <P>
+
+    </P>
+    <footer>
+        <font size="5"> </font><font color="white"> Alias en la comunidad hispanoparlante = La piedra, the lock y mister musclo</font>
+    </footer>
+    <hr>
+
+    <body>
+        <img src="html/img/sos.gif" width="350" height="500"> <img src="html/img/sussy.gif" width="350" height="500">
+    </html>
+
+
+
+<!DOCTYPE html> lista peliculas
+<html lang="en">
+<head>
+    <title>PELIS</title>
+    <link rel="stylesheet" href="si.png/style.css">
+</head>
+<style>
+    table, th, td{
+        border: 1px solid rgb(56, 199, 82);
+    }
+    td, th {
+        color: brown;
+    }
+</style>
+<body>
+    <table border="30" cellpadding="4" cellspacing="0"
+            <tr>
+                <th>NOMBRE</th>
+                <th>ROL</th> 
+                <th>AÑO</th>
+
+            </tr>
+            <tr>
+                <td>en los años</td>
+                <td>tirano</td>
+                <td>1600</td>
+            </tr>
+            <tr>
+                <td>Él mismo
+                <td>Beyond the Mat</td>
+                <td>1999</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+    </table>
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html> galeria roca
+<html lang="en">
+
+
+<link rel="stylesheet" href="si.png/style.css">
+<head>
+    <title>Cemento</title>
+    <link rel="shortcut icon" href="img/si.png/no.jpg" type="image/x-icon">
+</head>
+
+<body>
+    <h1>Galeria de arte</h1>
+    <img src="galeria/fotos/ahh.jpg" width="500" height="500">
+    <img src="galeria/fotos/Contexto.jpg"width="500" height="500">
+    <img src="galeria/fotos/la piedla.jpg"width="500" height="500">
+    <img src="galeria/fotos/piedra.jpg"width="500" height="500">
+    
+</body>
+</html>
+
+
+style.css
+body{
+    background-image: url(https://c.tenor.com/RP_qoKH85xgAAAAC/the-rock-sus-the-rock-meme.gif);
+    background-size: cover;
+}
